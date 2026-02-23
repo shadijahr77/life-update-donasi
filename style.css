@@ -19,6 +19,7 @@ h1 {
 }
 
 .update-box {
+  text-align: center;
   background: #eef5ff;
   padding: 15px;
   border-radius: 8px;
