@@ -4,7 +4,7 @@ const targetDonasi = 2500000;
 // Data donasi masuk (EDIT DI SINI)
 const donasiMasuk = [
   { nama: "Ahmad", jumlah: 500000 },
-  { nama: "Hamba Allah", jumlah: 25000000 },
+  { nama: "Hamba Allah", jumlah: 25000 },
   { nama: "Siti", jumlah: 2000000 },
   { nama: "Alfian", jumlah: 500000}
 ];
