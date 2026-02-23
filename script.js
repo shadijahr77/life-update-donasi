@@ -19,9 +19,8 @@ donasiMasuk.forEach(donasi => {
   listElement.appendChild(li);
 });
 
-// Update total
+
 totalElement.textContent = "Rp " + total.toLocaleString("id-ID");
 
-// Update progress bar
 const persen = (total / targetDonasi) * 100;
 progressElement.style.width = persen + "%";
