@@ -67,6 +67,14 @@ h1 {
   color: #2c3e50;
 }
 
+.estimasi-global {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #666;
+  font-style: italic;
+}
+
 .progress {
   height: 100%;
   width: 0%;
