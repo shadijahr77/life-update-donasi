@@ -49,9 +49,22 @@ h1 {
 .qr-box {
   flex: 1;
   background: #f0f8ff;
-  padding: 20px;
-  border-radius: 12px;
+  padding: 30px 20px;
+  border-radius: 16px;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.rekening-box p {
+  margin: 8px 0;
+  font-size: 16px;
+}
+
+.rekening-box strong {
+  font-size: 20px;
+  color: #2c3e50;
 }
 
 .progress {
