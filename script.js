@@ -1,4 +1,4 @@
-const targetDonasi = 2500000;
+const targetDonasi = 3000000;
 
 // edit donasi cuy
 const donasiMasuk = [
