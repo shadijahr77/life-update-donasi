@@ -91,3 +91,9 @@ li {
     flex-direction: column;
   }
 }
+
+.qr-box img {
+  display: block;
+  margin: 15px auto 0 auto;
+  max-width: 200px;
+}
